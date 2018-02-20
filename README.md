@@ -1,2 +1,2 @@
-# udacity-deeplearning
-My Deeplearning answers to some Udacity Projects
+# Deeplearning-projects
+Some deeplearning projects to practice working with deeplearning.
